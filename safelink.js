@@ -1,3 +1,3 @@
-https://cdn.rawgit.com/Gaomod/Generate/40302c53/safelink.js
+https://cdn.jsdelivr.net/gh/Gaomod/Generate@40302c53/safelink.js
 
 Baris 5 <meta content= name='google-site-verification'/>
